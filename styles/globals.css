@@ -248,7 +248,9 @@
 }
 
 .tailoring_container h2 {
+  font-weight: normal;
   font-size: 100px;
+  font-weight: normal;
   opacity: 1;
   color: var(--color-black) !important;
   padding: 2rem;
@@ -504,6 +506,7 @@ button {
 }
 
 .contact_brand-container h1 {
+  font-weight: normal;
   font-size: 32px;
   color: var(--color-black);
 }
@@ -670,6 +673,7 @@ button {
   }
 
   .tailoring_container h2 {
+    font-weight: normal;
     font-size: 100px;
     opacity: 1;
     color: var(--color-black) !important;
@@ -894,6 +898,7 @@ button {
   }
 
   .tailoring_container h2 {
+    font-weight: normal;
     font-size: 80px;
     opacity: 1;
     color: var(--color-black) !important;
@@ -1202,6 +1207,7 @@ button {
   }
 
   .header_slide1-text h1 {
+    font-weight: normal;
     text-align: center;
     font-size: 50px;
   }
@@ -1213,6 +1219,7 @@ button {
   }
 
   .header_slide2 h1 {
+    font-weight: normal;
     font-size: 50px;
   }
 
@@ -1257,6 +1264,7 @@ button {
 
   .about_container h2 {
     font-size: 50px;
+    font-weight: normal;
   }
 
   /* Tailoring Section */
@@ -1267,6 +1275,7 @@ button {
   }
 
   .tailoring_container h2 {
+    font-weight: normal;
     font-size: 50px;
     opacity: 1;
     color: var(--color-black) !important;
@@ -1317,6 +1326,7 @@ button {
   }
 
   .products_container h1 {
+    font-weight: normal;
     font-size: 50px;
   }
 
@@ -1361,6 +1371,7 @@ button {
   }
 
   .suits_container h1 {
+    font-weight: normal;
     font-size: 50px;
   }
 
@@ -1435,6 +1446,7 @@ button {
   }
 
   .contact_brand-container h1 {
+    font-weight: normal;
     font-size: 32px;
     color: var(--color-black);
   }
