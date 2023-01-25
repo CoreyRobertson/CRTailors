@@ -452,6 +452,7 @@
   left: 20px;
   transform: translateY(-50%);
   cursor: pointer;
+  color: var(--color-black);
 }
 
 .next {
@@ -460,6 +461,7 @@
   right: 20px;
   transform: translateY(-50%);
   cursor: pointer;
+  color: var(--color-black);
 }
 
 button {
@@ -1196,6 +1198,11 @@ button {
     align-items: center;
     justify-content: center;
     gap: 4rem;
+    width: 100%;
+  }
+
+  .header_slide1-text h1 {
+    width: 100%;
   }
 
   .header_slide2 {
