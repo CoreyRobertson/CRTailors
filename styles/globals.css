@@ -1198,7 +1198,6 @@ button {
     align-items: center;
     justify-content: center;
     gap: 4rem;
-    width: 100%;
   }
 
   .header_slide1-text h1 {
@@ -1217,7 +1216,8 @@ button {
     justify-content: center;
     align-items: center;
     padding: 0rem;
-    margin-top: 7rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
   }
 
   .header_slide2-button {
