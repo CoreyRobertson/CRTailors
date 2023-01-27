@@ -197,6 +197,18 @@
   flex-direction: column;
 }
 
+.header_slide1 h1 {
+  font-weight: normal;
+}
+
+.header_slide1 h2 {
+  font-weight: normal;
+}
+
+.header_slide2 h1 {
+  font-weight: normal;
+}
+
 .header_slide2-text {
   display: flex;
   flex-direction: column;
@@ -238,6 +250,10 @@
   justify-content: center;
   background-color: var(--color-black);
   padding: 10rem 0;
+}
+
+.about_container h2 {
+  font-weight: normal;
 }
 
 /* Tailoring Section */
@@ -297,6 +313,10 @@
   padding: 10rem 0;
 }
 
+.products_container h1 {
+  font-weight: normal;
+}
+
 .products_container img {
   height: 500px;
   border-radius: 30px;
@@ -335,6 +355,10 @@
   flex-direction: column;
 
   padding: 10rem 0;
+}
+
+.suits_container h1 {
+  font-weight: normal;
 }
 
 .suits_top-container {
@@ -482,14 +506,14 @@ button {
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-evenly;
-  background-color: var(--color-grey);
+  background-color: var(--color-black);
   padding-bottom: 10rem;
   margin-top: -1px;
 }
 
 .line {
   padding: 10rem;
-  background-color: var(--color-grey);
+  background-color: var(--color-black);
 }
 
 .line hr {
@@ -508,7 +532,7 @@ button {
 .contact_brand-container h1 {
   font-weight: normal;
   font-size: 32px;
-  color: var(--color-black);
+  color: var(--color-grey);
 }
 
 .contact_links-container ul {
@@ -523,7 +547,7 @@ button {
 .contact_links-container a {
   text-decoration: none;
   font-size: 20px;
-  color: var(--color-black);
+  color: var(--color-grey);
   transition: 1s;
   cursor: pointer;
 }
@@ -535,7 +559,7 @@ button {
 }
 
 .icon {
-  color: var(--color-black);
+  color: var(--color-grey);
   font-size: 40px;
   margin-top: 2rem;
   transition: 1s;
@@ -548,6 +572,10 @@ button {
 }
 
 @media screen and (min-width: 1800px) {
+
+  h2 {
+    font-weight: normal;
+  }
 
   .header_slide2 {
     display: flex;
